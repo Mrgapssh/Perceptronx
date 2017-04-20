@@ -5,7 +5,7 @@ import java.util.Random;
 
 
 public class Perceptronx {
-
+// AUTOR : Toto,Chompy
   
     public static void main(String[] args) {
        //Matriz de entradas para el perceptron
