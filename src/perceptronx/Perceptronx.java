@@ -11,10 +11,10 @@ public class Perceptronx {
        //Matriz de entradas para el perceptron
         float[][] entradas =    
         {
-            {1f,0f,0f},
-            {1f,0f,1f},
-            {1f,1f,0f},
-            {1f,1f,1f}
+            {74f,21f,1f},
+            {40f,71f,-1f},
+            {25f,71f,1f},
+            {17f,25f,-1f}
         };
         //Vector de salidas para el perceptron
         float[] salidas = {0f,1f,1f,1f};
